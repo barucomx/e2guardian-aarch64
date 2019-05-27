@@ -1,4 +1,4 @@
-I did compiled these packages for a Netgate SG-1100, using the binaries and guidance from <a href="https://github.com/marcelloc/Unofficial-pfSense-packages/issues/58">marcelloc</a>
+I did compiled these packages for the Netgate SG-1100, using the binaries and guidance from <a href="https://github.com/marcelloc/Unofficial-pfSense-packages/issues/58">marcelloc</a>
 
 <img src="https://store.netgate.com/Assets/ProductImages/SG1100FrontTopAngle.jpg">
 
